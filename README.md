@@ -5,7 +5,7 @@
 I'm a **Linux & Azure Cloud Administrator** with 11 years in the IT industry, currently diving deep into the world of DevOps. My mission? To automate, scale, and optimize every aspect of infrastructure and software delivery.
 
 ### 🛠️ My Toolbelt
-- **Operating Systems:** Linux (RHEL, Ubuntu, CentOS), Windows Server
+- **Operating Systems:** Linux (RHEL, Ubuntu, CentOS).
 - **Cloud:** Azure
 - **DevOps:** Ansible, Jenkins, Git, GitHub, Docker, Kubernetes.
 - **Scripting:** Bash, PowerShell, automating routine tasks.
@@ -19,7 +19,7 @@ I'm a **Linux & Azure Cloud Administrator** with 11 years in the IT industry, cu
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ### 🎯 Goals for 2024
-- Earn certifications in **Azure DevOps** and **Kubernetes**.
+- Earn certifications in **Azure Administrator** and **Kubernetes**.
 - Launch a personal blog on **DevOps practices**.
 
 ### 🤝 Let's Collaborate!
